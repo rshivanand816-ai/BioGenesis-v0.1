@@ -1,0 +1,20 @@
+.node_modules
+dist
+.env
+.env.*
+node_modules/
+.vscode/
+
+# local env files
+.local
+
+# logs
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+
+# IDE
+.idea
+
+# macOS
+.DS_Store
